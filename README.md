@@ -6,7 +6,7 @@ Nesse projeto desenvolvi uma aplicação em Java que permite aos usuários consu
 
 1. **Clonar o repositório**:
    ```bash
-   git clone https://github.com/AdrilesTheCreator/api-cep-java.git
+   git clone https://github.com/AquilesDaniel/api-cep-java
    ```
 2. **Navegar até o diretório do projeto**:
    ```bash
