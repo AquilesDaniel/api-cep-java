@@ -8,7 +8,7 @@ Este projeto em Java permite aos usuários consultar informações detalhadas de
 
 - **Requisição à API**: Utiliza a API pública ViaCep para obter os dados de endereço em tempo real, garantindo que as informações estejam sempre atualizadas.
 
-## Como Jogar
+## Como Utilizar
 
 1. **Clonar o repositório**:
    ```bash
@@ -18,7 +18,7 @@ Este projeto em Java permite aos usuários consultar informações detalhadas de
    ```bash
    cd api-cep-java
    ```
-3. **Instruções**: Siga as instruções na tela. Digite o número do cep.
+3. **Instruções**: Siga as instruções no Prompt.
 
 ## Exemplo de Uso
 
@@ -27,7 +27,7 @@ Ao iniciar o código, será exibido uma notificação na tela mostrando um campo
 ## Tecnologias Utilizadas
 
 - **Linguagem**: Java
-- **Api**: ViaCep
+- **API**: ViaCep
 
 ## Contribuições
 
